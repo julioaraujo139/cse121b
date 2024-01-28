@@ -6,8 +6,6 @@ let fullName = 'Julio Araujo';
 let currentYear = '2024';
 let profilePicture = 'images/personal-photo.png';
 let favFoods = ['Rice', 'bean', 'Spaghetti', 'Steak'];
-favFoods.push('Salad', 'Banana Cream Pie');
-console.log(favFoods);
 
 /* Step 3 - Element Variables */
 const nameElement = document.getElementById('name');
@@ -23,3 +21,10 @@ imageElement.setAttribute('src' , profilePicture);
 imageElement.setAttribute('alt' , `Profile image of ${fullName}`);
 
 /* Step 5 - Array */
+let newFood ='Sushi';
+favFoods.push(newFood);
+foodElement.innerHTML += `<br>${favFoods}`;
+favFoods.shift();
+foodElement.innerHTML += `<br>${favFoods}`;
+favFoods.pop();
+foodElement.innerHTML += `<br>${favFoods}`;
