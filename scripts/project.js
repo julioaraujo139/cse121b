@@ -12,8 +12,8 @@ const displayApostles = (apostles) => {
       const ApostleName = document.createElement("h3");
       ApostleName.textContent = apostle.ApostleName;
 
-      const birthDate = document.createElement("h4");
-      birthDate.textContent = apostle.birthDate;
+      const BirthDate = document.createElement("h4");
+      BirthDate.textContent = apostle.BirthDate;
 
       const BirthLocation = document.createElement("h4");
       BirthLocation.textContent = apostle.BirthLocation;
@@ -27,7 +27,7 @@ const displayApostles = (apostles) => {
       
       article.appendChild(img);
       article.appendChild(ApostleName);
-      article.appendChild(birthDate);
+      article.appendChild(BirthDate);
       article.appendChild(BirthLocation);
       article.appendChild(CallDate);
       
@@ -38,7 +38,7 @@ const displayApostles = (apostles) => {
 
 /* async getTemples Function using fetch()*/
 const getApostles = async () => {
-    const response = await fetch("https://run.mocky.io/v3/08c2e4ca-a7cd-48e3-bad8-851225bd6e5b");
+    const response = await fetch("https://run.mocky.io/v3/29ffb6e1-8041-4354-96f6-04f695e98cc7");
     const data = await response.json();
     apostleList.push(...data);
     displayApostles(apostleList);

@@ -1,107 +1,107 @@
 [
     {
         "ApostleName": "Russell Marion Nelson",
-        "birthDate": "9 Sep 1924",
-        "BirthLocation": "Salt Lake City, Utah, United States",
-        "CallDate": "7 Apr 1984",
+        "BirthDate": "Birth date: 9 Sep 1924",
+        "BirthLocation": "Birth location: Salt Lake City, Utah, United States",
+        "CallDate": "When was call as apostle: 7 Apr 1984",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/russell_nelson_portrait.png"
     },
     {
         "ApostleName": "Dallin harris Oaks",
-        "birthDate": "12 Aug 1932",
-        "BirthLocation": "Provo, Utah, United States",
-        "CallDate": "3 May 1984",
+        "BirthDate": "Birth date: 12 Aug 1932",
+        "BirthLocation": "Birth location: Provo, Utah, United States",
+        "CallDate": "When was call as apostle: 3 May 1984",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/dallin_oaks_portrait.png"
     },
     {
         "ApostleName": "Henry Bennion Eyring",
-        "birthDate": "31 May 1933",
-        "BirthLocation": "Princeton, New Jersey, United States",
-        "CallDate": "1 Apr 1985",
+        "BirthDate": "Birth date: 31 May 1933",
+        "BirthLocation": "Birth location: Princeton, New Jersey, United States",
+        "CallDate": "When was call as apostle: 1 Apr 1985",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/henry_eyring_portrait.png"
     },
     {
         "ApostleName": "Jeffrey Roy Holland",
-        "birthDate": "3 Dec 1940",
-        "BirthLocation": "St. George, Utah, United States",
-        "CallDate": "23 Jun 1994",
+        "BirthDate": "Birth date: 3 Dec 1940",
+        "BirthLocation": "Birth location: St. George, Utah, United States",
+        "CallDate": "When was call as apostle: 23 Jun 1994",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/jeffrey_holland_portrait.png"
     },
     {
         "ApostleName": "Dieter Friedrich Uchtdorf",
-        "birthDate": "6 Nov 1940",
-        "BirthLocation": "Ostrava, Czech Republic",
-        "CallDate": "2 Oct 2004",
+        "BirthDate": "Birth date: 6 Nov 1940",
+        "BirthLocation": "Birth location: Ostrava, Czech Republic",
+        "CallDate": "When was call as apostle: 2 Oct 2004",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/dieter_f_uchtdorf_portrait.png"
     },
     {
         "ApostleName": "David Allan Bednar",
-        "birthDate": "15 Jun 1952",
-        "BirthLocation": "Oakland, California, United States",
-        "CallDate": "2 Oct 2004",
+        "BirthDate": "Birth date: 15 Jun 1952",
+        "BirthLocation": "Birth location: Oakland, California, United States",
+        "CallDate": "When was call as apostle: 2 Oct 2004",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/david_a_bednar_portrait.png"
     },
     {
         "ApostleName": "Quentin LaMar Cook",
-        "birthDate": "8 Sep 1940",
-        "BirthLocation": "Logan, Utah, United States",
-        "CallDate": "6 Oct 2007",
+        "BirthDate": "Birth date: 8 Sep 1940",
+        "BirthLocation": "Birth location: Logan, Utah, United States",
+        "CallDate": "When was call as apostle: 6 Oct 2007",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/quentin_l_cook_portrait.png"
     },
     {
         "ApostleName": "David Todd Christofferson",
-        "birthDate": "24 Jan 1945",
-        "BirthLocation": "Carlisle, Cumberland, England",
-        "CallDate": "5 Apr 2008",
+        "BirthDate": "Birth date: 24 Jan 1945",
+        "BirthLocation": "Birth location: Carlisle, Cumberland, England",
+        "CallDate": "When was call as apostle: 5 Apr 2008",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/todd_christofferso_portrait.png"
     },
     {
         "ApostleName": "Neil Linden Andersen",
-        "birthDate": "9 Aug 1951",
-        "BirthLocation": "Logan, Utah, United States",
-        "CallDate": "4 Apr 2009",
+        "BirthDate": "Birth date: 9 Aug 1951",
+        "BirthLocation": "Birth location: Logan, Utah, United States",
+        "CallDate": "When was call as apostle: 4 Apr 2009",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/neil_l_andersen_portrait.png"
     },
     {
         "ApostleName": "Ronald Anderson Rasband",
-        "birthDate": "6 Feb 1951",
-        "BirthLocation": "Salt Lake City, Utah, United States",
-        "CallDate": "3 Oct 2015",
+        "BirthDate": "Birth date: 6 Feb 1951",
+        "BirthLocation": "Birth location: Salt Lake City, Utah, United States",
+        "CallDate": "When was call as apostle: 3 Oct 2015",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/ronald_rasband_portrait.png"
     },
     {
         "ApostleName": "Gary Evan Stevenson",
-        "birthDate": "6 Aug 1955",
-        "BirthLocation": "Ogden, Utah, United States",
-        "CallDate": "29 Sep 2015",
+        "BirthDate": "Birth date: 6 Aug 1955",
+        "BirthLocation": "Birth location: Ogden, Utah, United States",
+        "CallDate": "When was call as apostle: 29 Sep 2015",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/gary_e_stevenson_portrait.png"
     },
     {
         "ApostleName": "Dale Gunnar Renlund",
-        "birthDate": "13 Nov 1952",
-        "BirthLocation": "Salt Lake City, Utah, United States",
-        "CallDate": "3 Oct 2015",
+        "BirthDate": "Birth date: 13 Nov 1952",
+        "BirthLocation": "Birth location: Salt Lake City, Utah, United States",
+        "CallDate": "When was call as apostle: 3 Oct 2015",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/renlund_portrait.png"
     },
     {
         "ApostleName": "Gerrit Walter Gong",
-        "birthDate": "23 Dec 1953",
-        "BirthLocation": "Redwood City, California, United States",
-        "CallDate": "31 Mar 2018",
+        "BirthDate": "Birth date: 23 Dec 1953",
+        "BirthLocation": "Birth location: Redwood City, California, United States",
+        "CallDate": "When was call as apostle: 31 Mar 2018",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/gerrit_gong_portrait.png"
     },
     {
         "ApostleName": "Ulisses Soares",
-        "birthDate": "2 Oct 1958",
-        "BirthLocation": "São Paulo, Brazil",
-        "CallDate": "31 Mar 2018",
+        "BirthDate": "Birth date: 2 Oct 1958",
+        "BirthLocation": "Birth location: São Paulo, Brazil",
+        "CallDate": "When was call as apostle: 31 Mar 2018",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/ulisses_soares_portrait.png"
     },
     {
         "ApostleName": "Patrick Kearon",
-        "birthDate": "18 jul 1961",
-        "BirthLocation": "Carlisle, Cumberland, England",
-        "CallDate": "7 Dec 2023",
+        "BirthDate": "Birth date: 18 jul 1961",
+        "BirthLocation": "Birth location: Carlisle, Cumberland, England",
+        "CallDate": "When was call as apostle: 7 Dec 2023",
         "imageUrl": "https://raw.githubusercontent.com/julioaraujo139/cse121b/main/apostles-picture/patrick_kearon_portrait.png"
     }
 ]
