@@ -246,37 +246,43 @@ footer {
     color: #eee;
 }
 
-#temples {
+#apostles {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
     grid-gap: .5rem;
     align-items: center;
     margin-bottom: 3rem;
+    align-content: center;
+    place-items: center;
 }
 
-#temples article {
-    height: 250px;
+#apostles article {
+    height: 400px;
+    width: 370px;
     margin: .5rem;
     border: 1px solid rgba(0, 0, 0, .1);
     padding: 1rem;
-    background-color: #eee;
+    background-color: #e3f7be;
     display: flex;
-    flex-direction: column;
+    flex-direction:column;
     align-items: center;
     justify-content: center;
+    
 }
 
-#temples h4 {
+#apostles h4 {
     color: navy;
     font-size: smaller;
+    line-height: 1.6em;
+    margin: .1rem;
 }
 
-
-#temples img {
-    width: 150px;
+#apostles img {
+    width: 200px;
     height: auto;
-    box-shadow: 0 0 30px #777;
+    box-shadow: 0 0 0px #777;
     margin: .5rem;
+    align-items: start;
 }
 
 /* Media Queries */
