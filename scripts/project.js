@@ -1,10 +1,6 @@
-/* W05: Programming Tasks */
-
-/* Declare and initialize global variables */
 const apostlesElement = document.querySelector("#apostles");
 const apostleList = [];
 
-/* async displayTemples Function */
 const displayApostles = (apostles) => {
     apostles.forEach((apostle) => {
       const article = document.createElement("article");
@@ -36,7 +32,6 @@ const displayApostles = (apostles) => {
     });
   };
 
-/* async getTemples Function using fetch()*/
 const getApostles = async () => {
     const response = await fetch("https://run.mocky.io/v3/29ffb6e1-8041-4354-96f6-04f695e98cc7");
     const data = await response.json();
